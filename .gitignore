@@ -1,0 +1,18 @@
+# IntelliJ project files
+.idea
+*.iml
+
+#Test coverage
+coverage
+
+# Node_modules
+node_modules
+
+# Library
+lib
+
+# Logs
+*.log
+
+# Example
+bundle.js

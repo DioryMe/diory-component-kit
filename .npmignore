@@ -1,0 +1,21 @@
+# IntelliJ project files
+.idea
+*.iml
+
+#Test coverage
+coverage
+
+# Node_modules
+node_modules
+
+# Source
+src
+
+# Logs
+*.log
+
+# Example
+example
+
+#Code of conduct
+CODE_OF_CONDUCT.md
